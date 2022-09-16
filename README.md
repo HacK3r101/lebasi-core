@@ -1,1 +1,1 @@
-# lebasi-core
+Test config
